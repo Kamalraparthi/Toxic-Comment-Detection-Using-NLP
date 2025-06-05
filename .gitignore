@@ -1,0 +1,4 @@
+# Ignore dataset files
+train.csv
+train (1).csv
+*.csv
