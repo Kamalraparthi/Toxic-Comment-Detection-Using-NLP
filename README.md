@@ -31,16 +31,11 @@ This project builds a multi-label classification model to detect various forms o
 
 ## Features and Workflow:
 
-**Text Cleaning**
-- Removing punctuation, lowercasing, handling contractions.
-**Custom NLP Utility Scripts**
-- "contractions.py" and "nlp_utils.py".
-**Data Balancing**
-- Addressing class imbalance for better model performance.
-**Model Architecture**
-- LSTM / Bidirectional LSTM.
-**Evaluation**
-- F1 Score, classification report, visualization of label distribution.
+- **Text Cleaning**: Removing punctuation, lowercasing, handling contractions.
+- **Custom NLP Utility Scripts**: "contractions.py" and "nlp_utils.py".
+- **Data Balancing**: Addressing class imbalance for better model performance.
+- **Model Architecture**: LSTM / Bidirectional LSTM.
+- **Evaluation**: F1 Score, classification report, visualization of label distribution.
 
 
 ## Tools & Technologies:
